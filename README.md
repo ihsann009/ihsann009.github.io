@@ -1,23 +1,16 @@
-# zpice.me - Under Maintenance
+# zpice.me
 
-A modern, responsive maintenance page for zpice.me
+A minimal, monochromatic "GM fren" page
 
 ## Features
-- Modern gradient background with floating animations
-- Responsive design that works on all devices
-- Smooth animations and hover effects
-- Progress bar with loading animation
-- Social media links placeholder
-- Contact information
-- Beautiful typography using Inter font
+- Clean monochromatic design with purple gradients
+- Animated gradient text effect
+- Responsive design
+- Smooth progress bar animation
+- Minimal and focused layout
 
-## Customization
-You can easily customize:
-- Colors in the CSS gradient
-- Contact email address
-- Social media links
-- Progress bar animation speed
-- Floating shapes count and size
+## Live Site
+Visit [zpice.me](https://zpice.me) to see the page
 
 ## GitHub Pages
-This site is deployed on GitHub Pages and accessible at [zpice.me](https://zpice.me)
+This site is automatically deployed via GitHub Pages from the `index.html` file.
